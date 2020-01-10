@@ -3,8 +3,8 @@ Techcrunch News App with React Native
 
 #
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/home.jpg">
-  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/info.jpg">
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/home.jpg">
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/info.jpg">
 </div>
 
 # Installation
