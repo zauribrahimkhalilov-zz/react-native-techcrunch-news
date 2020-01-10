@@ -2,16 +2,9 @@
 Techcrunch News App with React Native
 
 #
-<style>
-ul#menu li {
-  display:inline;
-}
-</style>
 <div align="center">
-  <ul id="menu">
-  <li><img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/home.jpg" width="200" height="200"></li>
-  <li><img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/info.jpg" width="200" height="200"></li>
-  </ul>
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/home.jpg" width="200" height="400"></li>
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-techcrunch-news/master/screenshot/info.jpg" width="200" height="400">
 </div>
 
 # Installation
