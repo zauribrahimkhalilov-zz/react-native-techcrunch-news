@@ -1,0 +1,1 @@
+export const URL = 'https://newsapi.org/v2/';
